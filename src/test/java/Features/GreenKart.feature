@@ -8,5 +8,7 @@ Feature: Validating common vegetables on both dashboard and offers page
   When user provide the veg table name in "tom" search field
   And click on the Topdeals link and provide the veg name "tom" in search field
   Then validating vegetables are availables on both dashboard and offers page
+  
+  Then I am Srinivas Viswanadh Son of Anantha Raman Mahavrathayajula
     
 
