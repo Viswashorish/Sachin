@@ -10,5 +10,7 @@ Feature: Validating common vegetables on both dashboard and offers page
   Then validating vegetables are availables on both dashboard and offers page
   
   Then I am Srinivas Viswanadh Son of Anantha Raman Mahavrathayajula
+  
+  Then I am Sachin Tendular, Master blaster
     
 
